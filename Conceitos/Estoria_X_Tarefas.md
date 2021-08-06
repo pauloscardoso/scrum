@@ -51,7 +51,9 @@ c. ( ) Um conjunto de épicos que o time de desenvolvimento deve desempenhar par
 
 d. ( ) Um conjunto de atividades que o PO deve desempenhar para entregar para o time de desenvolvimento.
 
+
 # Parte 2 - Critérios de Aceite, Estimativa e Planejamento de Tarefas
+
 
 ### O que é um Critério de Aceite?
 
@@ -78,6 +80,7 @@ c. ( ) É uma lista de critérios para que a estória atenda aos requisitos do c
 
 d. ( ) É uma lista de cenários de teste.
 
+
 **2) O que é Planning Poker??**
 
 a. ( ) Uma atividade de integração do time.
@@ -88,7 +91,9 @@ c. ( ) Uma atividade de mensuraçao da complexidade do Épico descrito pelo clie
 
 d. ( ) Uma atividade de mensuração do esforço e complexidade das taregas ou estórias.
 
+
 ### Gabarito
+
 
 **1) O que é um Critério de aceite?**
 
@@ -99,6 +104,7 @@ b. ( ) É uma lista de critérios para que o épico atenda os requisitos do clie
 **c. (x) É uma lista de critérios para que a estória atenda aos requisitos do cliente.**
 
 d. ( ) É uma lista de cenários de teste.
+
 
 **2) O que é Planning Poker??**
 
