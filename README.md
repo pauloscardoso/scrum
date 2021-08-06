@@ -1,4 +1,4 @@
-# SCRUM :happy:
+# SCRUM 🌎
 
-Olá! Esse é um resumo que fiz em Markdown, da aula de SCRUM, da Digital Innovation One.
+### Olá! Esse é um resumo que fiz em Markdown, da aula de SCRUM, da Digital Innovation One.
 
