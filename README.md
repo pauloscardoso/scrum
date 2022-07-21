@@ -1,4 +1,4 @@
 # SCRUM 🌎
 
-### Olá! Esse é um resumo que fiz em Markdown, da aula de SCRUM, da Digital Innovation One.
+### Hi! This is a summary I did in Markdown, from the SCRUM class, from Digital Innovation One.
 
